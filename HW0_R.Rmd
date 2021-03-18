@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Due Date
 
-*This assignment is due at 12:59 PM ET on Monday, March 22.*
+*This assignment is due at 12:59 PM ET on Wednesday, March 24.*
 
 ### How to Write Up
 
